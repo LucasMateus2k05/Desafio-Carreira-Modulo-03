@@ -42,6 +42,36 @@ Me chamo Lucas Mateus e está é a minha evolução de aprendizagem no modulo 02
 - Tratamento de erros com Herança e Polimorfismo;
 
 
+            Modulo 04
+
+- Docker e Docker Compose;
+
+- Banco de Dados Postgres;
+
+- Carreira - Metodologias Ágeis;
+
+- Consultas SQL;
+
+- Modelagem de dados;
+
+- Carreira - Diversidade e inclusão em tecnologia;
+
+- CRUD SQL;
+
+- Agrupamento e Relacionamentos entre Tabelas;
+
+- Carreira - Marca Pessoal e Plano de Carreira;
+
+- Conexão Node.js com PostgreSQL;
+
+- Autenticação e Criptografia;
+
+- Integração com API de terceiros;
+
+- Git e Fluxo de trabalho em equipe;
+
+- ;
+
 
 ## O que eu já sei sobre os assuntos que serão abordados nesse módulo?
 
@@ -85,6 +115,12 @@ os metodos de Array sao desconhecidos por mim, sou iniciante na prograçao.
 - Tratamento de erros com Herança e Polimorfismo - que erros podem ser gerados atraves de brechas e de um má estruturação do codigo.
 
 
+            Modulo 04
+
+- Sobre todo o modulo, não vi pra ticamente nada do que será abordado, apenas algumas coisas que serão passadas nas aulas de carreira, porém estou ansioso para poder aprendwer mais sobre banco de dados SQL.
+
+
+
 
 ## O que quero aprender sobre os assuntos que serão abordados nesse módulo?
 
@@ -126,6 +162,15 @@ os metodos de Array sao desconhecidos por mim, sou iniciante na prograçao.
 - Autoconhecimento e Inteligência Emocional - Quais os seus beneficios e Como posso utilizar isso no meu dia a dia em uma empresa.
 
 - Tratamento de erros com Herança e Polimorfismo - como posso fazer para sanar esses erros?
+
+
+
+            Modulo 04
+Quero aprender masi sobre os fundamentos de banco dados , compreender oque é e como ele organiza toda a estrutura;
+quer ver como que funciona a modelagem na pratica e a criar modelos de bancos, para estruturar adequadamente os dado;
+Gostaria de ver como funciona os comandos CRUD, a fazer consultas e requisiçoes;
+Aprender mais sobre segurnaça e como utilizar de forma correta a criptografia de senhas;
+E aprender como que é feito a integração do banco de dados juntamente com a EPI.
 
 
 
@@ -209,3 +254,64 @@ ler, atualizar e deletar dados.
 - Autoconhecimento e Inteligência Emocional - aqui pude ver mais a fundo sobre esse tema que nos é passado de uma maneira um pouco turva.
 
 - Tratamento de erros com Herança e Polimorfismo - Vi nesta aula a importância de lidar corretamente com os erros para evitar problemas, além de ressaltar os benefícios da programação orientada a objetos, como modularidade e organização do código.
+
+
+
+            Modulo 04
+
+- Docker e Docker Compose:
+
+    Aprendi sobre o Docker e Docker Compose, que são ferramentas essenciais e indispensável para o desenvolvimento, ele é uma plataforma de software que nos permite criar teste e implante aplicativos de forma rápida e que tambem facilita a configuração do ambiente de programação, nos Permitido compartilhar o ambiente com outras pessoas, onde o seu uso vem tornado uma prática muito comum entre os devs devido à sua facilidade de uso e eficiência.
+
+
+- Banco de Dados Postgres:
+    aprendi que o banco de dados é um conjunto organizado de dados onde que eles são estruturados e 
+    armazenados de forma que possam ser facilmente acessados, gerenciados e atualizados. Eles são essenciais para o armazenamento e recuperação de informações de forma eficiente.
+
+
+- Carreira - Metodologias Ágeis:
+    nesta aula o caldeira abordou algumas das metodologias que nos ajudam a gerir projetos, principalmente na area dev. de software, ela nos ajuda a ter uma entrega continua de valor ao cliente.
+
+
+- Consultas SQL:
+    O SQL (Structured Query Language) é uma linguagem de programação utilizada para trabalhar com bancos de dados relacionais. As consultas SQL permitem extrair, inserir, atualizar e excluir, (CRUD),dados de um banco de dados de forma eficiente, onde usamos o Postgres como banco de dados durante todo o modulo 04.
+
+
+- Modelagem de dados:
+    Uma boa modelagem de dados é fundamental para garantir a integridade e eficiência das operações no banco de dado, utilizamos o programa Navicat como modelador, ela é muito essencial para o desenvolvimento de aplicações que utilizam bancos de dados, pois ajuda a definir a estrutura necessária para armazenar informações de forma consistente.
+
+- Carreira - Diversidade e inclusão em tecnologia:
+    Nesta aula foi detabido como a diversidade é importante, ela mos trás variedade de perspectivas, representatividade e recrutamento inclusivo, na inclusão vimos como  ter um ambiente mais acolhedor, com equidade de oportunidades e politicas inclusivas, nos aseguram que tenhamos as mesmas oportunidades de crescimento.
+
+
+- CRUD SQL:
+    CRUD SQL, assim como o CRUD no desenvolvimento de APIS, refere-se às quatro operações básicas para manipulação de dados em um banco de dados:
+
+    Create: Inserir novos registros em uma tabela (INSERT INTO).
+    Read: Consultar ou recuperar dados de uma tabela (SELECT).
+    Update: Modificar registros existentes em uma tabela (UPDATE).
+    Delete: Remover registros de uma tabela (DELETE).
+    Essas operações são fundamentais para a interação com bancos de dados relacionais.
+
+
+- Agrupamento e Relacionamentos entre Tabelas:
+    Nessa aula, foi abordada a importância dos agrupamentos e relacionamentos em SQL, com foco principal em bancos de dados relacionais como o PostgreSQL. Foram discutidos tipos de consultas, aplicação na prática e exemplificados como fazer agrupamentos e relacionamentos. Esses conceitos são essenciais para consultas mais complexas e eficientes em bancos de dados.
+
+
+- Carreira - Marca Pessoal e Plano de Carreira:
+    Nessa aula, foi abordada a importância de ter uma marca pessoal e como isso nos ajuda na nossa área profissinal, onde tambem o plano de carreira é essencial para alcançar patamares maior na nossa vida profissional.
+
+
+- Conexão Node.js com PostgreSQL:
+    Aprendi sobre como estabelecer uma conexão entre uma aplicação Node.js e um banco de dados PostgreSQL. o Guido abordou temas como as escritas de queries em SQL, tratamento de possíveis erros na conexão e a importância de compreender a interação entre o banco de dados e a aplicação. Compreendi que esse é um conhecimento fundamental para o desenvolvimento de aplicações web que precisam armazenar e recuperar dados de forma eficiente.
+
+- Autenticação e Criptografia:
+    A criptografia nada mais é do que criar uma comunicação segura entre duas partes. Os principais objetivos da criptografia são garantir a confidencialidade da mensagem, verificar a integridade da mesma, autenticar a origem da mensagem e possibilitar a comprovação da origem.
+
+
+- Integração com API de terceiros:
+    Na aula de Integração com API de terceiros, foram revisados conceitos sobre servidores back-end e APIs, destacando a importância da integração com APIs de terceiros para aumentar a eficiência, reduzir custos e gerar oportunidades de personalização. tivemos como exempo a API do Faceebok, ode o Guido falou mais sobre como ela se integra com diversos sites e aplicações para autenticação de usuários.
+
+
+- Git e Fluxo de trabalho em equipe:
+    Nesta ultima aula do modulo foram abordados conceitos sobre como, nós programadores trabalhamos em equipe usando o Git para gerenciar versões de código. Foram explicados os comandos Git Pull e Git Push, além de discutir desafios comuns no desenvolvimento de projetos em equipe e a importância da organização e resolução de problemas.
